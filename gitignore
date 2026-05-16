@@ -1,0 +1,16 @@
+# Output of experiment runs — these are generated, not source
+/tmp/experiment_results/
+experiment_results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
