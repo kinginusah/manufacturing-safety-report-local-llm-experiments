@@ -99,5 +99,5 @@ Applied Sciences, Joensuu, Finland.
 Repository: https://github.com/kinginusah/manufacturing-safety-report-local-llm-experiments
 
 License
-MIT License — see LICENSE
+MIT License — see LICENSE (https://github.com/kinginusah/manufacturing-safety-report-local-llm-experiments/blob/main/LICENSE)
 
