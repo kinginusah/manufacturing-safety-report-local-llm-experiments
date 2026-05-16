@@ -96,7 +96,8 @@ Mohammed, I. (2026). Local LLMs in Manufacturing SMEs: Feasibility, Privacy,
 and Cybersecurity Assessment. Bachelor’s thesis. Karelia University of
 Applied Sciences, Joensuu, Finland.
 
-License
+Repository: https://github.com/kinginusah/manufacturing-safety-report-local-llm-experiments
 
-MIT License — see https://en.wikipedia.org/wiki/MIT_License.
+License
+MIT License — see LICENSE
 
